@@ -1,0 +1,20 @@
+This male wears eyeglasses. He is bald.
+This male is wearing eyeglasses. He is bald.
+This person wears eyeglasses. He is bald.
+This person is wearing eyeglasses. He is bald.
+A man is wearing eyeglasses. He is bald.
+He is wearing eyeglasses. A male is bald.
+He is wearing eyeglasses. He is bald.
+This man is wearing eyeglasses. A man is bald.
+He is bald. A person wears eyeglasses.
+He is bald. He is wearing eyeglasses.
+He is bald. He is wearing eyeglasses.
+He is wearing eyeglasses. He is bald.
+He is bald. He is wearing eyeglasses.
+This male is wearing eyeglasses. He is bald.
+He is bald. This man wears eyeglasses.
+This male is bald. A male wears eyeglasses.
+He wears eyeglasses. He is bald.
+A man is wearing eyeglasses. A male is bald.
+This man is wearing eyeglasses. He is bald.
+He is bald. He is wearing eyeglasses.

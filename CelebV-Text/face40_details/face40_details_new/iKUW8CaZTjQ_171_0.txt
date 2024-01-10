@@ -1,0 +1,20 @@
+A person is wearing lipstick. A female is young. She has pale skin.
+She wears lipstick. She is young. She has pale skin.
+She has pale skin. She is young. She wears lipstick.
+She has pale skin. She is wearing lipstick. She is young.
+She is wearing lipstick. A female is young. She has pale skin.
+A female is young. A woman has pale skin. She wears lipstick.
+A person is young. She is wearing lipstick. She has pale skin.
+She has pale skin. She wears lipstick. She is young.
+A woman has pale skin. She is young. She is wearing lipstick.
+This person is young. She has pale skin. She wears lipstick.
+She has pale skin. She is wearing lipstick. This person is young.
+She is young. She wears lipstick. She has pale skin.
+She is wearing lipstick. She has pale skin. This female is young.
+She is wearing lipstick. She has pale skin. She is young.
+She has pale skin. She is young. She is wearing lipstick.
+She has pale skin. She is young. This woman wears lipstick.
+She is young. She is wearing lipstick. A female has pale skin.
+She has pale skin. She is young. This woman wears lipstick.
+She has pale skin. She is young. She wears lipstick.
+This female is young. She is wearing lipstick. She has pale skin.

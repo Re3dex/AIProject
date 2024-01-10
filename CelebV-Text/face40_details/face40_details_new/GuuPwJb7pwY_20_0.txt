@@ -1,0 +1,20 @@
+This man wears hat. He has beard.
+He has beard. He wears hat.
+A person has beard. He is wearing hat.
+This man is wearing hat. He has beard.
+He has beard. He wears hat.
+This person wears hat. He has beard.
+He has beard. He is wearing hat.
+This male is wearing hat. He has beard.
+He is wearing hat. He has beard.
+He is wearing hat. A man has beard.
+He wears hat. He has beard.
+He has beard. This person wears hat.
+This male is wearing hat. He has beard.
+He is wearing hat. He has beard.
+He has beard. He is wearing hat.
+He wears hat. He has beard.
+A person is wearing hat. He has beard.
+He has beard. This male wears hat.
+He is wearing hat. He has beard.
+He has beard. This person is wearing hat.

@@ -1,0 +1,20 @@
+A person wears hat. She is young.
+A female is wearing hat. She is young.
+This woman is young. She wears hat.
+She wears hat. This woman is young.
+She is wearing hat. A female is young.
+She is wearing hat. A woman is young.
+She wears hat. She is young.
+She is young. A woman is wearing hat.
+She is wearing hat. A female is young.
+She is wearing hat. She is young.
+She wears hat. She is young.
+She is young. She is wearing hat.
+This female wears hat. She is young.
+She is young. This person is wearing hat.
+She is young. She wears hat.
+She is young. She wears hat.
+A woman is young. She wears hat.
+She is wearing hat. She is young.
+She is young. This female is wearing hat.
+She is young. She wears hat.

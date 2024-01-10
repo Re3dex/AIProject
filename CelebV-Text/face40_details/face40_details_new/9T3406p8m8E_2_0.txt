@@ -1,0 +1,20 @@
+He has beard. A male is young. He wears goatee.
+He has beard. He is young. He is wearing goatee.
+A person has beard. A man is young. He is wearing goatee.
+He has beard. He wears goatee. A male is young.
+This man is young. He wears goatee. He has beard.
+A male has beard. A person is wearing goatee. This person is young.
+He has beard. He is young. He is wearing goatee.
+He has beard. He wears goatee. He is young.
+This man is young. A male wears goatee. A person has beard.
+He is wearing goatee. He has beard. A man is young.
+This man is young. A man is wearing goatee. He has beard.
+He is wearing goatee. He is young. He has beard.
+He wears goatee. He has beard. He is young.
+A man is wearing goatee. He has beard. A person is young.
+He is young. A person has beard. He wears goatee.
+He has beard. This male is young. He wears goatee.
+He is young. He has beard. He is wearing goatee.
+This person has beard. A male is young. He wears goatee.
+He is young. He has beard. He is wearing goatee.
+He has beard. He is wearing goatee. He is young.

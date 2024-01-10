@@ -1,0 +1,20 @@
+A man is blurry. This man is wearing hat.
+This man is blurry. He wears hat.
+A male is blurry. He is wearing hat.
+He wears hat. This man is blurry.
+He wears hat. He is blurry.
+He is blurry. He wears hat.
+He wears hat. A person is blurry.
+He is wearing hat. He is blurry.
+He wears hat. This man is blurry.
+He wears hat. A person is blurry.
+He is blurry. He wears hat.
+This male is wearing hat. He is blurry.
+This male wears hat. He is blurry.
+He is wearing hat. He is blurry.
+He is wearing hat. This person is blurry.
+He is wearing hat. A man is blurry.
+This male is wearing hat. A man is blurry.
+A male is blurry. He is wearing hat.
+He wears hat. He is blurry.
+He is blurry. He wears hat.

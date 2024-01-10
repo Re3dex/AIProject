@@ -1,0 +1,20 @@
+A male is young. He has beard. He is wearing hat.
+He has beard. He is young. He wears hat.
+He has beard. He wears hat. He is young.
+He is wearing hat. This man has beard. A person is young.
+He has beard. He wears hat. He is young.
+This man has beard. A male is young. He is wearing hat.
+A person is young. He is wearing hat. He has beard.
+He is young. A man is wearing hat. He has beard.
+This person is young. He has beard. He wears hat.
+A man is young. He has beard. He is wearing hat.
+This person is young. He has beard. He is wearing hat.
+He has beard. This male is young. He wears hat.
+He is wearing hat. He is young. He has beard.
+He has beard. A male is young. He wears hat.
+He has beard. He wears hat. A male is young.
+He wears hat. He has beard. He is young.
+He is wearing hat. He is young. A person has beard.
+He is wearing hat. He has beard. He is young.
+He has beard. He is young. A person wears hat.
+He has beard. He is wearing hat. He is young.

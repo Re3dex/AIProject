@@ -1,0 +1,20 @@
+A person has beard. He is wearing eyeglasses.
+A person wears eyeglasses. He has beard.
+He is wearing eyeglasses. This man has beard.
+He has beard. He is wearing eyeglasses.
+This man has beard. He is wearing eyeglasses.
+He wears eyeglasses. This person has beard.
+He is wearing eyeglasses. He has beard.
+He wears eyeglasses. This male has beard.
+A male has beard. He is wearing eyeglasses.
+He has beard. He wears eyeglasses.
+He is wearing eyeglasses. He has beard.
+This male has beard. He wears eyeglasses.
+This man has beard. He is wearing eyeglasses.
+He wears eyeglasses. This man has beard.
+He has beard. A man is wearing eyeglasses.
+He has beard. He is wearing eyeglasses.
+A male has beard. He wears eyeglasses.
+This man has beard. He is wearing eyeglasses.
+He wears eyeglasses. A person has beard.
+This male has beard. He is wearing eyeglasses.

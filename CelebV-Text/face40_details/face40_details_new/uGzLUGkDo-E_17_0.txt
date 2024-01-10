@@ -1,0 +1,20 @@
+A person is young. He has beard. He wears eyeglasses, hat and goatee.
+He is wearing eyeglasses, hat and goatee. He is young. A male has beard.
+He wears eyeglasses, hat and goatee. He has beard. He is young.
+This man is young. This man has beard. This man wears eyeglasses, hat and goatee.
+He has beard. He is young. He is wearing eyeglasses, hat and goatee.
+This man has beard. He is wearing eyeglasses, hat and goatee. This man is young.
+He has beard. He is young. He is wearing eyeglasses, hat and goatee.
+He is wearing eyeglasses, hat and goatee. He has beard. He is young.
+A male is young. He is wearing eyeglasses, hat and goatee. He has beard.
+He has beard. A person is young. A male wears eyeglasses, hat and goatee.
+He wears eyeglasses, hat and goatee. He is young. He has beard.
+He wears eyeglasses, hat and goatee. He is young. He has beard.
+He has beard. A person is young. He is wearing eyeglasses, hat and goatee.
+He is young. He has beard. He is wearing eyeglasses, hat and goatee.
+He has beard. A person is young. He wears eyeglasses, hat and goatee.
+This man is young. He is wearing eyeglasses, hat and goatee. He has beard.
+He is young. He is wearing eyeglasses, hat and goatee. He has beard.
+He is young. He has beard. He wears eyeglasses, hat and goatee.
+He is wearing eyeglasses, hat and goatee. A man is young. He has beard.
+This person is young. He has beard. He is wearing eyeglasses, hat and goatee.
